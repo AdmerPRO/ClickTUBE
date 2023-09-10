@@ -2,5 +2,5 @@
 ClickTUBE to polska gra w której trzeba zarabiać subskrybcje w niesamowitym symulatorze YouTube
 
 !!! WAŻNE !!!
-Trzeba mieć zainstalowanego Pythona aby odpalić gre
+W czasię włączania gry powinno pojawić się okno z konsolą. Proszę go nie zamykać!
 !!! WAŻNE !!!

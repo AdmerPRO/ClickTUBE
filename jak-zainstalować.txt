@@ -1,0 +1,7 @@
+Aby włączyć gre trzeba:
+-Odpalić ClickTUBE.zip
+-Wyeksportować Folder ClickerTUBE gdzie kolwiek
+-Wejść do folderu ClickerTUBE
+-Odpalić 2.0.0.exe
+
+MIŁEJ GRY
